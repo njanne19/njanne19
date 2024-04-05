@@ -1,11 +1,12 @@
 
-- Robotics researcher @ the University of Michigan w/the HaptiX lab
+- Robotics PhD Student @ the University of Michigan w/the [HaptiX lab](https://haptixlab.engin.umich.edu/) and the [PROGRESS lab](https://progress.eecs.umich.edu/index.html)
 - RF Engineering and GNC @ SpaceX 
-- Im interested in and looking to collaborate on: 
+- Im interested in and looking to collaborate on:
+    - Deep sensing, reasoning, and acting models for robotics
+    - Advancements in compositional reasoning in foundation models
     - Hardware drivers and firmware for robots on emebedded or linux platforms
-    - Open-source space research and computational libraries 
+    - Open-source space research
     - Back-end libraries for the web
-    - Machine learning deployments in robotics
     
 You can also find me on LinkedIn @ "Nick Janne" 
 
