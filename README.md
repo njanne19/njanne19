@@ -2,7 +2,7 @@
 - Robotics PhD Student @ the University of Michigan w/the [HaptiX lab](https://haptixlab.engin.umich.edu/) and the [PROGRESS lab](https://progress.eecs.umich.edu/index.html)
 - RF Engineering and GNC @ SpaceX 
 - Im interested in and looking to collaborate on:
-    - Large "X" Models for robotics
+    - Large ____ Models for robotics
     - Advancements in compositional reasoning in foundation models
     - Hardware drivers and firmware for robots on emebedded or linux platforms
     - Open-source space research
